@@ -1,0 +1,14 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 200980886 - Guy Balmas
+Second Student Details: 203021803 - Dor Koren
+Delivery Date.........: 10 - June - 2018
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2017
+Comments..............: 
+1. Highlight the available coordinates of the selected coin.
+2. Mark the current player's name.
+3. Messege box for empty input in Name field.
+
+=======================End Exercise Checking Report=========================
